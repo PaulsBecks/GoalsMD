@@ -1,0 +1,30 @@
+::placeholder {
+  color: #333;
+}
+
+@media (min-width: 600px) {
+  .modal.login {
+    width: 50%;
+  }
+}
+
+@media (min-width: 900px) {
+  .modal.login {
+    width: 30%;
+  }
+}
+
+body {
+  background: #272822;
+  color: #f8f8f2;
+}
+
+nav,
+nav .brand-logo {
+  background: #f8f8f2;
+  color: #272822;
+}
+
+a:hover {
+  cursor: pointer;
+}
