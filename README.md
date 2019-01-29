@@ -1,6 +1,6 @@
 # GoalMD
 
-Simple markdown editor to track your Goals.
+Simple markdown editor to track your goals.
 
 ## Get started
 
